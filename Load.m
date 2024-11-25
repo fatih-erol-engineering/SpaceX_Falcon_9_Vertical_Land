@@ -1,6 +1,6 @@
 clc
 clear all
-close al
+close all
 
 %% Add Path
 addpath(genpath(cd)) % Proje Dosyasindaki Butun Klasorleri Gorunur Yapar
